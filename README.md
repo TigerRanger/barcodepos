@@ -8,7 +8,7 @@ This package is created to handle Barcode Iamge and POS Machine Integration.
 
 ## Requirements
 - [PHP >= 7.0](http://php.net/)
-- [Laravel 6.x|7.x](https://github.com/laravel/framework)
+- [Laravel 6.x | 7.x ](https://github.com/laravel/framework)
 
 ## Documentations
 - [Github Docs](https://github.com/tigerranger/barcodepos-docs)
@@ -85,7 +85,7 @@ If you discover any security related issues, please email [omerabba009@gmail.com
 
 - [Tigerranger](https://github.com/tigerranger)
 - [Md.Nazmul Alam](https://nazmul-alam.com)
-- [Official Site](https://tigerranger.com)
+- [Official Site : https://tigerranger.com ](https://tigerranger.com)
 
 ## License
 
