@@ -14,19 +14,6 @@ This package is created to handle Barcode Iamge and POS Machine Integration.
 - [Github Docs](https://github.com/tigerranger/barcodepos-docs)
 - [Official help](https://tigerranger.com/barcodepos/helper/)
 
-```php
-return datatables()->of(User::query())->toJson();
-return datatables()->of(DB::table('users'))->toJson();
-return datatables()->of(User::all())->toJson();
-
-return datatables()->eloquent(User::query())->toJson();
-return datatables()->query(DB::table('users'))->toJson();
-return datatables()->collection(User::all())->toJson();
-
-return datatables(User::query())->toJson();
-return datatables(DB::table('users'))->toJson();
-return datatables(User::all())->toJson();
-```
 
 ## Quick Installation
 ```bash
