@@ -17,7 +17,7 @@ This package is created to handle Barcode Iamge and POS Machine Integration.
 
 ## Quick Installation
 ```bash
-$ composer require tigerranger/barcodepos"
+$ composer require tigerranger/barcodepos
 ```
 
 #### Service Provider & Facade (Optional on Laravel 6.x)
