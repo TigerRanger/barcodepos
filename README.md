@@ -1,7 +1,6 @@
 # TigerRanger Barcode Generator and POS machine Integration for Laravel 6.*.* | 7.*.*
 
 [![Laravel 6.x | 7.x](https://img.shields.io/badge/Laravel-6.x.x|7.x.x-orangered.svg)](http://laravel.com)
-[![Total Downloads](https://poser.pugx.org/yajra/laravel-datatables-oracle/downloads.png)](https://packagist.org/packages/tigerranger/barcodepos)
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://packagist.org/packages/tigerranger/barcodepos)
 
 This package is created to handle Barcode Iamge and POS Machine Integration. 
