@@ -1,6 +1,5 @@
 {
     "name": "tigerranger/barcodepos",
-    "type": "Laravel Module",
     "description": "Barcode Generator and POS machine Integration for Laravel 6.*.*",
     "authors": [
         {
