@@ -1,0 +1,21 @@
+{
+    "name": "tigerranger/barcodepos",
+    "type": "Laravel Module",
+    "description": "Barcode Generator and POS machine Integration for Laravel 6.*.*",
+    "authors": [
+        {
+            "name": "Md. Nazmul Alam",
+            "email": "omerabba009@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "tigerranger\\Barcode\\": "app/"
+        }
+    },
+    "license": "MIT",
+    "version": "1.0.0"
+}
